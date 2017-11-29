@@ -1,0 +1,39 @@
+body {
+  padding-top: 120px;
+  font-size: 18px;
+  font-family: Arial;
+  background-image: url(../img/background.PNG);
+}
+
+.container {
+  width: 30%;
+  border: 5px solid white;
+  margin: 0 auto;
+  color: black;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #F5F3EE;
+}
+
+a:link, a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: slateGray;
+  border-bottom-color: #444;
+}
+
+small {
+  color: #999;
+  font-style: italic;
+}
+
+.form {
+  text-align: center;
+}
+
+h4, .logo, .admin, .delete {
+  text-align: center;
+}
